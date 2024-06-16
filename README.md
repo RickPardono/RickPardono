@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ricardo Pardono and I"m a Data Science Student at UPM Universidade Presbiteriana Mackenzie (Brazil, SP).
+      I also hold a bachelor's degree in health sciences (Odontology) with two specializations and substantial experience in the public health sector.
 - 👀 I’m interested in Python, Big Data, Data Science, Data Visualization, Machine Learning, Deep Learning, AI, Time Series, NLP, Recommendation Systems and Cloud Computing.
 - 🌱 I’m currently learning Machine Learning, Big Data Ecosystems (Theory), Knowledge Visualization Design and Analysis, Software Design, and Applied Project 3.
       Upcoming courses for next semester include Big Data Ecosystems (Pratical), Deep Learning, Cloud Services, Applied Project 4, Software Engineering Topics, and Data Access Legal Protection and Aspects.
