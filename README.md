@@ -3,7 +3,7 @@
 - 👀 I’m interested in Python, Big Data, Data Science, Data Visualization, Machine Learning, Deep Learning, AI, Time Series, NLP, Recommendation Systems and Cloud Computing.
 - 🌱 I’m currently learning Deep Learning, Big Data, Software Design, Cloud Services and Applied Project 4.
       Upcoming courses for next semester include Big Data Ecosystems (Pratical), Deep Learning, Cloud Services, Applied Project 4, Software Engineering Topics, and Data Access Legal Protection and Aspects.
-- 💞️ I'm seeking an internship in São Paulo where I can further develop my skills in Python, Data Analysis, Data Visualization, Statistical Analysis, and Machine Learning.
+- 💞️ I'm seeking a job in São Paulo where I can further develop my skills in Python, SQL, Excel, PowerBI, Data Analysis, Data Visualization, Statistical Analysis, and Machine Learning.
       I aim to contribute to a data team by assisting in problem-solving and enhancing data-driven decision-making processes.
 - 📫 You can reach me here or sending a e-mail to rpardono@gmail.com
 
